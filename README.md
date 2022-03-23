@@ -28,6 +28,8 @@ https://www.kaggle.com/ravikumarmn/covid-19-text-classification-using-bert-tpu/d
   * My training data has 3 classes: neutral, negative, positive. 
 Based on my training data I will be able to predict which class the tweets posts on my test data would fit.
 
+![classes](https://user-images.githubusercontent.com/84256873/159619413-e6cd96a6-fa37-4a94-8608-1529fd601091.png)
+
 ### The environment
 
 I am working with Python programming language inside Jupyter notebook. inside this project I worked with the following tools:
