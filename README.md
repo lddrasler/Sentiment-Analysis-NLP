@@ -7,6 +7,9 @@
 
 March of 2020, the new coronavirus rapidly starts to spread throughout the world, and along with it, fear, and uncertainties. By that scary time, worldwide people started to share their viewpoints on social media even more often than usual. Twitter was one of the most common platforms for people to expose their feelings, opinions, and emotions. Thousands of tweet posts emerged at each second, analysis of these posts can show how the pandemic severely affected people’s lives.
 
+![WORDCLOUD](https://user-images.githubusercontent.com/84256873/159619595-ba1913c6-b2f7-488d-ab23-9948034395bf.png)
+
+
 ### Natural Language processing
 
 Natural language processing is a machine learning tool that allows computers to interact with humans using human language, understanding manual texting. 
