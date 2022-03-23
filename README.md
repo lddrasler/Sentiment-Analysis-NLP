@@ -16,6 +16,8 @@ Recently a variety of deep learning models have been applied to NLP to improve a
 
 Using Natural language processing I decided to apply models to understand what sentiment those tweet posts hold and how COVID-19 affected people’s lives.
 
+![tensorboard](https://user-images.githubusercontent.com/84256873/159619135-85209024-4ea7-440f-ad45-cebbff16bb21.png)
+
 ### The data
 
 The dataset used in this project was collected through Kaggle. It is free and you can find it here:
